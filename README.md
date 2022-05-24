@@ -20,9 +20,7 @@ Projeto - Pokedex
  
  <p>
  
-  - Background com musica autoplay e loop
- 
-  - Player de áudio no background com botões de play e stop com animação
+  - Player de áudio para background personalizado
  
  - Mensagem de interação entre pokemon e usuário
  
@@ -30,11 +28,15 @@ Projeto - Pokedex
  
  - Efeitos de escala no logo-tipo
  
- - Efeitos de transição na viewport no body
+ - Efeitos de transição na troca de viewports no body
  
  - Efeito de transição de video ao click nos cartões
  
  - Efeito de remoção e adição de classes ao click na lista de pokemons
+ 
+ - Efeito de mudança de escala da lista dos pokemons ao clicar
+ 
+ - Efeito de transição de escala ao carregar site
   
  </p>
   
