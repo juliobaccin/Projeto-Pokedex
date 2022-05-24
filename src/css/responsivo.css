@@ -1,0 +1,155 @@
+@media(max-width:750px) {
+    body {
+        font-size: 12px;
+        background-image: url(../images/bg3.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 60%;
+    }
+
+    .imagemLOGO {
+        position: absolute;
+        width: 219px;
+        height: 66px;
+        z-index: 1;
+        top: -3px;
+        left: 39px;
+    }
+
+    .aviso {
+        position: absolute;
+        top: 94px;
+        left: -58px;
+    }
+
+    .aviso img {
+        position: relative;
+        width: 180px;
+        height: 103px;
+    }
+
+    .aviso p {
+        font-size: 12px;
+        position: absolute;
+        top: 19px;
+        left: 41px;
+        color: red;
+        font-weight: bold;
+    }
+
+
+    .playerAudio {
+        position: absolute;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 139px;
+        height: 48px;
+        top: 469px;
+        left: 149px;
+        background-color: #5FB2EF;
+        border-radius: 10px;
+        border: 1px solid black;
+        z-index: 1;
+        transform: scale(.8);
+    }
+
+    .choque {
+        display: none;
+        width: 100%;
+        position: absolute;
+        z-index: 1;
+        top: 98px;
+        transform: scaleY(1.2);
+    }
+
+    .folha {
+        display: none;
+        width: 100%;
+        position: absolute;
+        z-index: 1;
+        top: 98px;
+        transform: scaleY(1.2);
+    }
+
+    .fogo {
+        display: none;
+        width: 100%;
+        position: absolute;
+        z-index: 1;
+        top: 98px;
+        transform: scaleY(1.2);
+    }
+
+    .agua {
+        display: none;
+        width: 100%;
+        position: absolute;
+        z-index: 1;
+        top: 98px;
+        transform: scaleY(1.2);
+    }
+
+    .fantasma {
+        display: none;
+        width: 100%;
+        position: absolute;
+        z-index: 1;
+        top: 98px;
+        transform: scaleY(1.2);
+    }
+
+    .dragao {
+        display: none;
+        width: 100%;
+        position: absolute;
+        z-index: 1;
+        top: 98px;
+        transform: scaleY(1.2);
+    }
+
+    .pokedex {
+        flex-direction: column;
+        align-items: center;
+        padding: 30px 0;
+    }
+
+    .cartao-pokemon {
+        max-width: 300px;
+    }
+
+    .cartao-pokemon .cartao-imagem {
+        width: 200px;
+        height: 200px;
+    }
+
+    .cartao-pokemon .cartao-informaçoes {
+        padding: 60px 8px 30px;
+        margin-top: -50px;
+    }
+
+    .cartao-pokemon .cartao-informaçoes h3 {
+        font-size: 16px;
+    }
+
+    .listagem {
+        max-width: 300px;
+    }
+
+    .listagem ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        justify-content: space-between;
+    }
+
+    .listagem .pokemon {
+        width: 140px;
+        margin-bottom: 0;
+        border-radius: 8px;
+    }
+
+    .listagem .pokemon span {
+        padding-right: 2px;
+    }
+}
