@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: pokemon;
-    src: url() format('truetype');
+    src: url(/font/Pokemon\ Classic.ttf) format('truetype');
 }
 
 body {
@@ -44,7 +44,8 @@ main {
 }
 
 .aviso p {
-    font-family: 'pokemon';
+    font-family: 'pokemon',
+    sans-serif;
     font-size: 14px;
     position: absolute;
     top: 29px;
