@@ -11,24 +11,22 @@
     <link rel="stylesheet" href="src/css/cartao.css">
     <link rel="stylesheet" href="src/css/listagem.css">
     <link rel="stylesheet" href="src/css/responsivo.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;800&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="src/images/pokeball.png" type="image/x-icon">
 </head>
 
-<body onload='aocarregar()'>
-    <audio class='audioFundo' src="src/audio/musica abertura.mp3" autoplay loop></audio>
+<body onload="aocarregar()">
+    <audio class="audioFundo" src="src/audio/musica abertura.mp3" autoplay loop></audio>
     <main>
         <div class="pokedex">
             <div class="aviso">
-                <img src="src/images/icone balao.png" alt="">
+                <img src="src/images/icone balao.png">
                 <p>Clique em mim<br>Treinador!</p>
             </div>
             <div class="playerAudio">
-                <img src="src/images/icone play.png" alt="#" class="icone" onclick="play()" class="play">
-                <img src="src/images/icone pause.png" alt="#" class="icone" onclick="pause()" class="play">
+                <img src="src/images/icone play.png" class="icone" onclick="play()" class="play">
+                <img src="src/images/icone pause.png" class="icone" onclick="pause()" class="play">
             </div>
-            <img class='imagemLOGO' src="src/images/logo-pokedex-p.png" alt="">
+            <img class="imagemLOGO" src="src/images/logo-pokedex-p.png">
 
             <div class="cartoes-pokemon">
                 <div class="cartao-pokemon aberto tipo-eletrico" id="cartao-pikachu">
@@ -42,8 +40,8 @@
                         </div>
                         <span class="tipo">Elétrico</span>
                         <div class="cartao-imagem">
-                            <img class='imagem' onmouseenter='mouseEntrar()' onmouseleave='mouseSair()'
-                                src="src/images/pikachu.png" alt="Imagem do Pikachu">
+                            <img class="imagem" onmouseenter="mouseEntrar()" onmouseleave="mouseSair()"
+                                src="src/images/pikachu.png">
                         </div>
                     </div>
                     <div class="cartao-informaçoes">
@@ -68,7 +66,7 @@
                 </div>
                 <div class="cartao-pokemon tipo-grama" id="cartao-bulbasauro">
                     <div class="video-bulbasauro">
-                        <video class='folha' src="src/video/Video bulbasauro.mp4" controls alt="">
+                        <video class="folha" src="src/video/Video bulbasauro.mp4" controls>
                     </div>
                     <div class="cartao-topo">
                         <div class="detalhes">
@@ -77,7 +75,7 @@
                         </div>
                         <span class="tipo">Grama</span>
                         <div class="cartao-imagem">
-                            <img class='imagemB' onmouseenter='mouseEntrar()' onmouseleave='mouseSair()'
+                            <img class="imagemB" onmouseenter="mouseEntrar()" onmouseleave="mouseSair()"
                                 src="src/images/bulbasaur.png" alt="Imagem do Bulbasauro">
                         </div>
                     </div>
@@ -103,7 +101,7 @@
                 </div>
                 <div class="cartao-pokemon tipo-fogo" id="cartao-charmander">
                     <div class="video-charmander">
-                        <video class='fogo' src="src/video/Video charmander.mp4" controls alt="">
+                        <video class="fogo" src="src/video/Video charmander.mp4" controls>
                     </div>
                     <div class="cartao-topo">
                         <div class="detalhes">
@@ -112,8 +110,8 @@
                         </div>
                         <span class="tipo">Fogo</span>
                         <div class="cartao-imagem">
-                            <img class='imagemC' onmouseenter='mouseEntrar()' onmouseleave='mouseSair()'
-                                src="src/images/charmander.png" alt="Imagem do Charmander">
+                            <img class="imagemC" onmouseenter="mouseEntrar()" onmouseleave="mouseSair()"
+                                src="src/images/charmander.png">
                         </div>
                     </div>
                     <div class="cartao-informaçoes">
@@ -139,7 +137,7 @@
 
                 <div class="cartao-pokemon tipo-agua" id="cartao-gyarados">
                     <div class="video-gyarados">
-                        <video class='agua' src="src/video/Video gyarados.mp4" controls alt="">
+                        <video class="agua" src="src/video/Video gyarados.mp4" controls>
                     </div>
                     <div class="cartao-topo">
                         <div class="detalhes">
@@ -148,8 +146,8 @@
                         </div>
                         <span class="tipo">Agua</span>
                         <div class="cartao-imagem">
-                            <img class='imagemD' onmouseenter='mouseEntrar()' onmouseleave='mouseSair()'
-                                src="src/images/gyarados.png" alt="Imagem do Gyarados">
+                            <img class="imagemD" onmouseenter="mouseEntrar()" onmouseleave="mouseSair()"
+                                src="src/images/gyarados.png">
                         </div>
                     </div>
                     <div class="cartao-informaçoes">
@@ -175,7 +173,7 @@
 
                 <div class="cartao-pokemon tipo-fantasma" id="cartao-gengar">
                     <div class="video-gengar">
-                        <video class='fantasma' src="src/video/video gengar.mp4" controls alt="">
+                        <video class="fantasma" src="src/video/video gengar.mp4" controls>
                     </div>
                     <div class="cartao-topo">
                         <div class="detalhes">
@@ -184,8 +182,8 @@
                         </div>
                         <span class="tipo">Fantasma</span>
                         <div class="cartao-imagem">
-                            <img class='imagemE' onmouseenter='mouseEntrar()' onmouseleave='mouseSair()'
-                                src="src/images/gengar.png" alt="Imagem do Gengar">
+                            <img class="imagemE" onmouseenter="mouseEntrar()" onmouseleave="mouseSair()"
+                                src="src/images/gengar.png">
                         </div>
                     </div>
                     <div class="cartao-informaçoes">
@@ -210,7 +208,7 @@
                 </div>
                 <div class="cartao-pokemon tipo-dragao" id="cartao-dragonite">
                     <div class="video-dragonite">
-                        <video class='dragao' src="src/video/video dragonite.mp4" controls alt="">
+                        <video class="dragao" src="src/video/video dragonite.mp4" controls>
                     </div>
                     <div class="cartao-topo">
                         <div class="detalhes">
@@ -219,8 +217,8 @@
                         </div>
                         <span class="tipo">Dragão</span>
                         <div class="cartao-imagem">
-                            <img class='imagemF' onmouseenter='mouseEntrar()' onmouseleave='mouseSair()'
-                                src="src/images/dragonite.png" alt="Imagem do Dragonite">
+                            <img class="imagemF" onmouseenter="mouseEntrar()" onmouseleave="mouseSair()"
+                                src="src/images/dragonite.png">
                         </div>
                     </div>
                     <div class="cartao-informaçoes">
@@ -247,27 +245,22 @@
 
             <nav class="listagem">
                 <ul>
-                    <li class="pokemon ativo" id="pikachu"><img src="src/images/cabeca-pikachu.png"
-                            alt="cabeça do pikachu">
+                    <li class="pokemon ativo" id="pikachu"><img src="src/images/cabeca-pikachu.png">
                         <span>Pikachu</span>
                     </li>
-                    <li class="pokemon" id="bulbasauro"><img src="src/images/cabeca-bulbasaur.png"
-                            alt="cabeça do bulbasaur">
+                    <li class="pokemon" id="bulbasauro"><img src="src/images/cabeca-bulbasaur.png">
                         <span>Bulbasauro</span>
                     </li>
-                    <li class="pokemon" id="charmander"><img src="src/images/cabeca-charmander.png"
-                            alt="cabeça do charmander">
+                    <li class="pokemon" id="charmander"><img src="src/images/cabeca-charmander.png">
                         <span>Charmander</span>
                     </li>
-                    <li class="pokemon" id="gyarados"><img src="src/images/cabeca-gyarados.png"
-                            alt="cabeça do gyarados">
+                    <li class="pokemon" id="gyarados"><img src="src/images/cabeca-gyarados.png">
                         <span>Gyarados</span>
                     </li>
-                    <li class="pokemon" id="gengar"><img src="src/images/cabeca-gengar.png" alt="cabeça do gengar">
+                    <li class="pokemon" id="gengar"><img src="src/images/cabeca-gengar.png">
                         <span>Gengar</span>
                     </li>
-                    <li class="pokemon" id="dragonite"><img src="src/images/cabeca-dragonite.png"
-                            alt="cabeça do dragonite">
+                    <li class="pokemon" id="dragonite"><img src="src/images/cabeca-dragonite.png">
                         <span>Dragonite</span>
                     </li>
                 </ul>
