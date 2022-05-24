@@ -1,6 +1,6 @@
 @media(max-width:750px) {
     body {
-        font-size: 12px;
+        font-size: 10px;
         background-image: url(../images/bg3.png);
         background-size: cover;
         background-repeat: no-repeat;
@@ -13,13 +13,13 @@
         height: 66px;
         z-index: 1;
         top: -3px;
-        left: 39px;
+        left: 60px;
     }
 
     .aviso {
         position: absolute;
-        top: 94px;
-        left: -58px;
+        top: 97px;
+        left: -43px;
     }
 
     .aviso img {
@@ -29,7 +29,7 @@
     }
 
     .aviso p {
-        font-size: 12px;
+        font-size: 9px;
         position: absolute;
         top: 19px;
         left: 41px;
@@ -43,15 +43,19 @@
         display: flex;
         justify-content: space-around;
         align-items: center;
-        width: 139px;
+        width: 203px;
         height: 48px;
-        top: 469px;
-        left: 149px;
-        background-color: #5FB2EF;
+        top: 462px;
+        left: 137px;
+        background-color: rgb(95, 178, 239);
         border-radius: 10px;
         border: 1px solid black;
         z-index: 1;
-        transform: scale(.8);
+        transform: scale(0.6);
+    }
+
+    .playerAudio::after {
+        left: 40px;
     }
 
     .choque {
@@ -129,11 +133,11 @@
     }
 
     .cartao-pokemon .cartao-informaçoes h3 {
-        font-size: 16px;
+        font-size: 11px;
     }
 
     .listagem {
-        max-width: 300px;
+        max-width: 343px;
     }
 
     .listagem ul {
@@ -144,12 +148,14 @@
     }
 
     .listagem .pokemon {
-        width: 140px;
+        width: 131px;
         margin-bottom: 0;
         border-radius: 8px;
+        margin-left: 17px;
+        margin-right: 19px;
     }
 
     .listagem .pokemon span {
-        padding-right: 2px;
+        padding-right: 30px;
     }
 }
