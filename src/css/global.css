@@ -1,3 +1,5 @@
+@charset "utf-8";
+
 @font-face {
     font-family: 'pokemon';
     src: url(../fontes/Pokemon\ Classic.ttf) format("truetype");
