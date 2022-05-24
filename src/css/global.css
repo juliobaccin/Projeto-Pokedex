@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'pokemon';
-    src: url(/Pokemon\ Classic.ttf) format('truetype');
+    src: url(/Pokemon\ Classic.ttf) format("truetype");
 }
 
 body {
