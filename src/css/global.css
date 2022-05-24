@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: pokemon;
-    src: url(/src/fonts/Pokemon\ Classic.ttf) format('truetype');
+    src: url(/Pokemon\ Classic.ttf) format('truetype');
 }
 
 body {
