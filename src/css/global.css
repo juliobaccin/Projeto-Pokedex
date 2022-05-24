@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
 body {
     font-family: 'Poppins', sans-serif;
     background-image: url(../images/bg2.png);
     background-size: cover;
     background-repeat: no-repeat;
     transition: .5s ease-in-out;
+    font-weight: 300;
 }
 
 main {
@@ -126,8 +129,8 @@ main {
     width: 100%;
     position: absolute;
     z-index: 1;
-    top: 149px;
-    transform: scaleY(1.3);
+    top: 140px;
+    transform: scaleY(1.4);
 }
 
 .video-bulbasauro {
@@ -140,8 +143,8 @@ main {
     width: 100%;
     position: absolute;
     z-index: 1;
-    top: 149px;
-    transform: scaleY(1.3);
+    top: 140px;
+    transform: scaleY(1.4);
 }
 
 .video-charmander {
@@ -154,7 +157,7 @@ main {
     width: 100%;
     position: absolute;
     z-index: 1;
-    top: 149px;
+    top: 140px;
     transform: scaleY(1.4);
 }
 
@@ -168,7 +171,7 @@ main {
     width: 100%;
     position: absolute;
     z-index: 1;
-    top: 149px;
+    top: 140px;
     transform: scaleY(1.4);
 }
 
@@ -182,7 +185,7 @@ main {
     width: 100%;
     position: absolute;
     z-index: 1;
-    top: 149px;
+    top: 140px;
     transform: scaleY(1.4);
 }
 
@@ -196,6 +199,6 @@ main {
     width: 100%;
     position: absolute;
     z-index: 1;
-    top: 149px;
+    top: 140px;
     transform: scaleY(1.4);
 }
