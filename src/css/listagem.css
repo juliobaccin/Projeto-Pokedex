@@ -1,8 +1,8 @@
-.listagem{
+.listagem {
     max-width: 200px;
 }
 
-.listagem .pokemon{
+.listagem .pokemon {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -19,19 +19,19 @@
     width: 221px;
 }
 
-.listagem .pokemon:hover{
+.listagem .pokemon:hover {
     transform: scale(1.1);
 }
 
-.listagem .pokemon img{
+.listagem .pokemon img {
     width: 25%;
     border-radius: 50%;
 }
 
-.listagem .pokemon span{
+.listagem .pokemon span {
     padding-right: 20px;
 }
 
-.listagem .pokemon.ativo{
+.listagem .pokemon.ativo {
     background-color: #fa6668;
 }
