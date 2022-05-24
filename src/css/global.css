@@ -1,8 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
-
 @font-face {
-    font-family: pokemon;
-    src: url(/font/Pokemon\ Classic.ttf) format('truetype');
+    font-family: 'pokemon';
+    src: url(/Pokemon\ Classic.ttf) format('truetype');
 }
 
 body {
@@ -44,8 +42,7 @@ main {
 }
 
 .aviso p {
-    font-family: 'pokemon',
-    sans-serif;
+    font-family: 'pokemon', sans-serif;
     font-size: 14px;
     position: absolute;
     top: 29px;
