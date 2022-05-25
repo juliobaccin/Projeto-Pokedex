@@ -14,32 +14,6 @@ Projeto - Pokedex
 <p align="center">
  você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Pokedex/">aqui</a>
 </p>
-
-
-<h3> Funcionalidades </h3>
- 
- <p>
- 
-  - Player de áudio para background personalizado
- 
- - Mensagem de interação entre pokemon e usuário
- 
- - Efeitos de escala de imagem nos cartões ao passar o mouse
- 
- - Efeitos de escala no logo-tipo
- 
- - Efeitos de transição na troca de viewports no body
- 
- - Efeito de transição de video ao click nos cartões
- 
- - Efeito de remoção e adição de classes ao click na lista de pokemons
- 
- - Efeito de mudança de escala da lista dos pokemons ao clicar
- 
- - Efeito de transição de escala ao carregar site
-  
- </p>
-  
   
  <div align="center">
 <h3> 
