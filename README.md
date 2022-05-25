@@ -19,7 +19,7 @@ Projeto - Pokedex
 <h3> 
  Apresentação do Site
 </h3>
-<img src="https://github.com/juliobaccin/Projeto-Pokedex/blob/main/src/apresenta%C3%A7%C3%A3o.gif">
+<img src="">
  
  <h3>
   Responsividade
