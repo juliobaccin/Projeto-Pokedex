@@ -37,7 +37,7 @@ function pause() {
 }
 
 var choque = document.querySelector('.choque')
-var pikachu = document.querySelector('.imagem')
+var pikachu = document.querySelector('.imagemA')
 pikachu.addEventListener('click', function () {
     choque.style.display = 'block'
     choque.play()
