@@ -19,7 +19,7 @@ Projeto - Pokedex
  
  <p>
  
-  - Player de áudio para background personalizado
+  - Player de áudio para background personalizado com animação de opacidade
  
  - Mensagem de interação entre pokémon e usuário
  
