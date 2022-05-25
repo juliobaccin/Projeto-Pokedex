@@ -38,6 +38,8 @@ Projeto - Pokedex
  - Efeito de transição de escala ao carregar site
  
  - Responsivo para viewport menores
+ 
+ - Fonte Pokemon Classic personalizada
   
  </p>
   
