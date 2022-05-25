@@ -45,11 +45,11 @@ Projeto - Pokedex
 <h3> 
  Apresentação do Site
 </h3>
-<img src="">
+<img src="https://github.com/juliobaccin/Projeto-Pokedex/blob/main/src/apresenta%C3%A7%C3%A3o.gif">
  
  <h3>
   Responsividade
  </h3> 
-<img src="">
+<img src="https://github.com/juliobaccin/Projeto-Pokedex/blob/main/src/responsividade.gif">
 </div>
  
