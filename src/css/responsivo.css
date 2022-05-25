@@ -1,5 +1,3 @@
-@charset "UTF-8";
-
 @media(max-width:750px) {
     body {
         font-size: 10px;
@@ -7,6 +5,10 @@
         background-size: cover;
         background-repeat: no-repeat;
         background-position: 60%;
+    }
+
+    main{
+        min-height: 100vh;
     }
 
     .imagemLOGO {

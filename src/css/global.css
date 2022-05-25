@@ -15,7 +15,7 @@ body {
 }
 
 main {
-    min-height: 100vh;
+    min-height: 110vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,8 +29,8 @@ main {
 }
 
 .aviso {
-    top: 141px;
-    left: -127px;
+    top: 119px;
+    left: -146px;
     color: black;
     position: absolute;
     z-index: 1;
@@ -135,7 +135,7 @@ main {
     width: 100%;
     position: absolute;
     z-index: 1;
-    top: 160px;
+    top: 155px;
     transform: scaleY(1.4);
 }
 
@@ -149,7 +149,7 @@ main {
     width: 100%;
     position: absolute;
     z-index: 1;
-    top: 160px;
+    top: 155px;
     transform: scaleY(1.4);
 }
 
@@ -163,7 +163,7 @@ main {
     width: 100%;
     position: absolute;
     z-index: 1;
-    top: 160px;
+    top: 155px;
     transform: scaleY(1.4);
 }
 
@@ -177,7 +177,7 @@ main {
     width: 100%;
     position: absolute;
     z-index: 1;
-    top: 160px;
+    top: 155px;
     transform: scaleY(1.4);
 }
 
@@ -191,7 +191,7 @@ main {
     width: 100%;
     position: absolute;
     z-index: 1;
-    top: 160px;
+    top: 155px;
     transform: scaleY(1.4);
 }
 
@@ -205,6 +205,6 @@ main {
     width: 100%;
     position: absolute;
     z-index: 1;
-    top: 160px;
+    top: 155px;
     transform: scaleY(1.4);
 }
