@@ -21,7 +21,7 @@ Projeto - Pokedex
  
   - Player de áudio para background personalizado
  
- - Mensagem de interação entre pokemon e usuário
+ - Mensagem de interação entre pokémon e usuário
  
  - Efeitos de escala de imagem nos cartões ao passar o mouse
  
@@ -31,9 +31,9 @@ Projeto - Pokedex
  
  - Efeito de transição de video ao click nos cartões
  
- - Efeito de remoção e adição de classes ao click na lista de pokemons
+ - Efeito de remoção e adição de classes ao click na lista de pokémons
  
- - Efeito de mudança de escala da lista dos pokemons ao clicar
+ - Efeito de mudança de escala da lista dos pokémons ao clicar
  
  - Efeito de transição de escala ao carregar site
   
