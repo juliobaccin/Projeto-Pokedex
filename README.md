@@ -36,6 +36,8 @@ Projeto - Pokedex
  - Efeito de mudança de escala da lista dos pokémons ao clicar
  
  - Efeito de transição de escala ao carregar site
+ 
+ - Responsivo para viewport menores
   
  </p>
   
