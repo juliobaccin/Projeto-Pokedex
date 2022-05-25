@@ -24,7 +24,7 @@ Projeto - Pokedex
  
  - Mensagem de interação entre pokemon e usuário
  
- - Efeitos de escala de imagem nos cartões
+ - Efeitos de escala de imagem nos cartões ao passar o mouse
  
  - Efeitos de escala no logo-tipo
  
