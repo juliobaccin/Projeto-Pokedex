@@ -8,7 +8,7 @@ Projeto - Pokedex
 </div>
  
  <p align="center">
- Pokedex feita com <strong>HMTL, CSS e JavaScript</strong> para a <strong>Week Dev em Dobro</strong>. Desenvolvida por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a>
+ Pokedex feita com <strong>HMTL, CSS e JavaScript</strong> para a Week <strong>Dev em Dobro</strong>. Desenvolvida por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a>
  </p>
 
 <p align="center">
