@@ -12,7 +12,7 @@ Projeto - Pokedex
  </p>
 
 <p align="center">
- você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Detector-Idade/">aqui</a>
+ você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Pokedex/">aqui</a>
 </p>
 
 
@@ -24,7 +24,7 @@ Projeto - Pokedex
  
  - Mensagem de interação entre pokemon e usuário
  
- - Efeitos de escala de imagem nos cartões
+ - Efeitos de escala de imagem nos cartões ao passar o mouse
  
  - Efeitos de escala no logo-tipo
  
@@ -45,11 +45,11 @@ Projeto - Pokedex
 <h3> 
  Apresentação do Site
 </h3>
-<img src="https://github.com/juliobaccin/Projeto-Pokedex/blob/main/src/apresenta%C3%A7%C3%A3o%20site.gif">
+<img src="">
  
  <h3>
   Responsividade
  </h3> 
-<img src="https://github.com/juliobaccin/Projeto-Pokedex/blob/main/src/responsividade.gif">
+<img src="">
 </div>
  
